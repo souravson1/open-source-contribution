@@ -78,10 +78,34 @@ If your README is long, add a table of contents to make it easy for users to fin
 - [Usage](#usage)
 - [Credits](#credits)
 - [License](#license)
+If your README is long, add a table of contents to make it easy for users to find what they need.
+
+- [Installation](#installation)
+- [Usage](#usage)
+- [Credits](#credits)
+- [License](#license)
 
 ## Installation
 
+
+
 What are the steps required to install your project? Provide a step-by-step description of how to get the development environment running.
+
+## UsageWhat are the steps required to install your project? Provide a step-by-step description of how to get the development environment running.
+
+## UsageWhat are the steps required to install your project? Provide a step-by-step description of how to get the development environment running.
+
+## UsageWhat are the steps required to install your project? Provide a step-by-step description of how to get the development environment running.
+
+## UsageWhat are the steps required to install your project? Provide a step-by-step description of how to get the development environment running.
+
+## UsageWhat are the steps required to install your project? Provide a step-by-step description of how to get the development environment running.
+
+## UsageWhat are the steps required to install your project? Provide a step-by-step description of how to get the development environment running.
+
+## UsageWhat are the steps required to install your project? Provide a step-by-step description of how to get the development environment running.
+
+## UsageWhat are the steps required to install your project? Provide a step-by-step description of how to get the development environment running.
 
 ## Usage
 
@@ -118,22 +142,14 @@ The last section of a high-quality README file is the license. This lets other d
 
 Badges aren't necessary, per se, but they demonstrate street cred. Badges let other developers know that you know what you're doing. Check out the badges hosted by [shields.io](https://shields.io/). You may not understand what they all represent now, but you will in time.
 
-## Features
-
-If your project has a lot of features, list them here.
 
 ## How to Contribute
 
 If you created an application or package and would like other developers to contribute it, you can include guidelines for how to do so. The [Contributor Covenant](https://www.contributor-covenant.org/) is an industry standard, but you can always write your own if you'd prefer.
 
-## Tests
-
-# koi BKL 🤡 hi hoga jo yha contribute nhi Krega . 🤑
 
 
-Go the extra mile and write tests for your application. Then provide examples on how to run them here.
 
-ser plej merge I want green on graph open source contribution go brrrrr
 
 
 The open source community spirit is all about:
@@ -156,16 +172,41 @@ WOW
 first PR
 lol
 
+# koi BKL 🤡 hi hoga jo yha contribute nhi Krega . 🤑
+
+
+first PR
+lol# koi BKL 🤡 hi hoga jo yha contribute nhi Krega . 🤑
+
+
+first PR
+lol# koi BKL 🤡 hi hoga jo yha contribute nhi Krega . 🤑
+
+
+first PR
+lol# koi BKL 🤡 hi hoga jo yha contribute nhi Krega . 🤑
+
+
+first PR
+lol# koi BKL 🤡 hi hoga jo yha contribute nhi Krega . 🤑
+
+
+first PR
+lol# koi BKL 🤡 hi hoga jo yha contribute nhi Krega . 🤑
+
+
+first PR
+lol# koi BKL 🤡 hi hoga jo yha contribute nhi Krega . 🤑
+
+
+first PR
+lol# koi BKL 🤡 hi hoga jo yha contribute nhi Krega . 🤑
+
+
+first PR
+lol
+
 The One Who is commenting here will be the next CEO of google Ashii.
-
-
-# First PR
-
-A big thanks to the hitesh sir for providing the open soource contribution and its my first contribution
-
-I loved your all the series mainly (backend , React and javascript) 
-
-Again a heartful thaks a lot for providing such content
 
 
 # Distributed Systems Overview
@@ -194,20 +235,14 @@ Again a heartful thaks a lot for providing such content
 3. Fault tolerance ensures system reliability.
 4. Resources like printers can be shared among multiple nodes.
 
+
+
+
+
 ## Disadvantages
 
 1. Security can be challenging to ensure across all nodes and connections.
 2. Data loss can occur during transmission between nodes.
 3. Managing the database in a distributed system can be complex.
 4. Network overloading may happen if all nodes attempt to send data simultaneously.
-
-## Design Challenges
-
-- **Network Creation**: Establishing connections between nodes.
-- **Computer Hardware Compatibility**: Ensuring compatibility across different hardware configurations.
-- **Operating Systems**: Handling diverse operating systems on various nodes.
-- **Programming Languages**: Supporting different programming languages used by nodes.
-- **Implementation Consistency**: Ensuring consistency in system implementation across different developers.
-- **Openness**: Extensibility and re-implementation of the system with shared resources.
-- **Security**: Protecting against unauthorized access, interference, and data alteration or corruption.
 
